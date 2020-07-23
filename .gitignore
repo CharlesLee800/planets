@@ -1,5 +1,3 @@
-secrets.txt
-secrets.*
 *.dat
-/env
-log_*
+results/
+
